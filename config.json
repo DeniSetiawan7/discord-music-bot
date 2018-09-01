@@ -1,0 +1,13 @@
+{
+	"bot": {
+		"token": "",
+		"owner_id": "",
+		"owner_name": "",
+		"prefix": ""
+	},
+	"serverStatus": {
+		"guild_id": "",
+		"total_users_id": "",
+		"total_bots_id": ""
+	}
+}

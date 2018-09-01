@@ -1,0 +1,23 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeniSetiawan7/in3d-discord-bot.git"
+  },
+  "author": "Deni Setiawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeniSetiawan7/in3d-discord-bot/issues"
+  },
+  "homepage": "https://github.com/DeniSetiawan7/in3d-discord-bot#readme"
+}
