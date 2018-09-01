@@ -1,4 +1,4 @@
-# Project - Discord.js [in3d-discord-bot]
+# Project - Discord.js [in3d-discord-bot] (Still in Development)
 I made this bot by myself and some help from youtube, google, discord forum. so all the credits not all belongs to me.
 
 ## Getting Started
@@ -29,7 +29,7 @@ npm install
 	}
 }
 ```
-- Last Step, run :
+- Last Step, run in cmd/terminal again:
 ```
 node server.js
 ```
